@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Florence Eze 👋</h1>
+<h1 align="start">Hi there, I'm Florence Eze 👋</h1>
 
 <p align="start">
   🌟 A Frontend Learner at ALX <br>

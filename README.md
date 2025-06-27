@@ -8,6 +8,7 @@
 
 ---
 
+⚜️I am a Ux Designer pivoting to software engineering. I have always been curious about code. <br>
 🌱 I'm currently learning HTML, CSS, and JavaScript.  
 💡 I'm excited about turning ideas into interactive, useful, and beautiful websites.  
 🎯 My goal is to become a creative developer who crafts meaningful experiences through code and design.

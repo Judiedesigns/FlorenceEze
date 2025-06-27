@@ -1,15 +1,12 @@
 <h1 align="start">Hi there, I'm Florence Eze 👋</h1>
 
 <p align="start">
-  🌟 A Frontend Learner at ALX <br>
-  🎨 Passionate about design, problem solving & creative development <br>
-  🚀 On a journey to build thoughtful, user-focused web experiences
+  I'm a UX Designer transitioning into software engineering — driven by curiosity and creativity. I’ve always been fascinated by how code powers the things we use every day. I’m passionate about solving real-world problems through thoughtful design and innovative thinking.
 </p>
 
 ---
 
-⚜️I am a Ux Designer pivoting to software engineering. I have always been curious about code. <br>
-🌱 I'm currently learning HTML, CSS, and JavaScript.  
+🌱 I'm currently learning HTML, CSS, and JavaScript at ALX.  
 💡 I'm excited about turning ideas into interactive, useful, and beautiful websites.  
 🎯 My goal is to become a creative developer who crafts meaningful experiences through code and design.
 

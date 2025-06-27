@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Florence Eze 👋</h1>
 
-<p align="center">
+<p align="start">
   🌟 A Frontend Learner at ALX <br>
   🎨 Passionate about design, problem solving & creative development <br>
   🚀 On a journey to build thoughtful, user-focused web experiences
